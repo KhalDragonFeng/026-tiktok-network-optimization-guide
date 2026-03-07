@@ -38,3 +38,4 @@
 - 完整主仓库：<https://github.com/KhalDragonFeng/tiktok-network-optimization-guide>
 - 2026 年度版：<https://github.com/KhalDragonFeng/2026-tiktok-network-optimization-guide>
 - 主站完整版：<https://kuajing-tools.vip>
+- **更新文章**: [2026-03-07-a94a8fe5.md](2026-03-07-a94a8fe5.md)
